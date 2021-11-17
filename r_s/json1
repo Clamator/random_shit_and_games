@@ -1,0 +1,31 @@
+{
+    "response": {
+        "count": 277,
+        "items": [
+            {
+                "first_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u044a",
+                "id": 209886677,
+                "last_name": "\u0425\u0430\u0439\u0431\u0443\u043b\u043b\u0438\u043d\u044a",
+                "can_access_closed": true,
+                "is_closed": false,
+                "photo_50": "https://sun1-15.u...c65/iLGOw_7ZC9A.jpg"
+            },
+            {
+                "first_name": "\u041e\u043a\u0441\u0430\u043d\u0430",
+                "id": 14510834,
+                "last_name": "\u041a\u043e\u0437\u043b\u043e\u0432\u0430",
+                "can_access_closed": true,
+                "is_closed": false,
+                "photo_50": "https://sun1-56.u...1382,1382&ava=1"
+            },
+            {
+                "first_name": "\u041e\u043b\u044c\u0433\u0430",
+                "id": 65127354,
+                "last_name": "\u0427\u0435\u0440\u043d\u043e\u0432\u0430",
+                "can_access_closed": true,
+                "is_closed": false,
+                "photo_50": "https://sun1-21.u...5,789,789&ava=1"
+            }
+        ]
+    }
+}

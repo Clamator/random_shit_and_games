@@ -1,0 +1,19 @@
+{
+  "response": {
+    "count": 5942486,
+    "items": [
+      {
+        "first_name": "\u0418\u0433\u043e\u0440\u044c",
+        "id": 552465830,
+        "last_name": "\u041f\u0435\u0442\u0440\u043e\u0432\u044a",
+        "can_access_closed": false
+      },
+      {
+        "first_name": "\u0410\u0440\u0442\u0435\u043c\u044a",
+        "id": 465631726,
+        "last_name": "\u0413\u0435\u0440\u0435\u0439\u0445\u0430\u043d\u043e\u0432\u044a",
+        "can_access_closed": true
+      }
+    ]
+  }
+}
