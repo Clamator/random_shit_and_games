@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="MultyAsyncParallel" />
     <orderEntry type="module" module-name="Parsing" />
     <orderEntry type="module" module-name="GIT" />
+    <orderEntry type="module" module-name="git_test2" />
   </component>
   <component name="PyNamespacePackagesService">
     <option name="namespacePackageFolders">
