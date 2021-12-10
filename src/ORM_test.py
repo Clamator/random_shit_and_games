@@ -31,8 +31,8 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 #person1 = Person(person_id=16, first_name='Kesha', surname='Ololoev', gender='male', birth_date='2020-09-14')
-#session.add(person1)
-#session.commit()
+#session_discogs.add(person1)
+#session_discogs.commit()
 
 for item in session.query(Person).order_by(Person.birth_date):
     print(item.first_name, ' ', item.birth_date)
